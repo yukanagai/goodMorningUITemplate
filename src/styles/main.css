@@ -34,7 +34,6 @@ html body {
     html body a:visited {
       color: #000; }
   html body header, html body footer {
-    transition: 0.5s all;
     text-align: center;
     z-index: 11;
     /* nav */ }
