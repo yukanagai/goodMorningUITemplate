@@ -72,7 +72,6 @@
 
 (function() {
   window.onscroll = function() {
-    console.log('scrolling');
     if (window.document.body.scrollTop > 50) {
       document.body.classList.add("changeColor");
       document.querySelector('header').classList.add("changeHeader");
@@ -80,7 +79,6 @@
       document.body.classList.remove("changeColor");
       document.querySelector('header').classList.remove("changeHeader");
     }
-  
   };
 })();
 
