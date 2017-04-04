@@ -1,4 +1,4 @@
-# Good / Morning - a simple UI Landing Page Template
+# Good/Morning - a simple UI Landing Page Template
 
 This is a UI excerise for designing and building a simple one page landing page using HTML, vanilla javscript, and sass.
 
